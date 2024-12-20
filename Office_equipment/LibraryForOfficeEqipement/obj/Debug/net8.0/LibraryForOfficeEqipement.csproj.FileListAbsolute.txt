@@ -1,0 +1,36 @@
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.deps.json
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.pdb
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.AssemblyInfoInputs.cache
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.AssemblyInfo.cs
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.csproj.CoreCompileInputs.cache
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\refint\LibraryForOfficeEqipement.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.pdb
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\ref\LibraryForOfficeEqipement.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.csproj.AssemblyReference.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.deps.json
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.pdb
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.csproj.AssemblyReference.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.AssemblyInfoInputs.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.AssemblyInfo.cs
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\refint\LibraryForOfficeEqipement.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.pdb
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\ref\LibraryForOfficeEqipement.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.deps.json
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\bin\Debug\net8.0\LibraryForOfficeEqipement.pdb
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.csproj.AssemblyReference.cache
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.AssemblyInfoInputs.cache
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.AssemblyInfo.cs
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.csproj.CoreCompileInputs.cache
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\refint\LibraryForOfficeEqipement.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\LibraryForOfficeEqipement.pdb
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\LibraryForOfficeEqipement\obj\Debug\net8.0\ref\LibraryForOfficeEqipement.dll

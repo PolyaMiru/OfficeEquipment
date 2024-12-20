@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C24FB0-FCB6-47AD-87E1-E01B3D5C0932}|UnitTest\\UnitTest.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C24FB0-FCB6-47AD-87E1-E01B3D5C0932}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\updaterequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\updaterequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\office_equipment\\showrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\showrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7D6081-1B7B-4AE4-85E0-16395B4651FF}|LibraryForOfficeEqipement\\LibraryForOfficeEqipement.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\libraryforofficeeqipement\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7D6081-1B7B-4AE4-85E0-16395B4651FF}|LibraryForOfficeEqipement\\LibraryForOfficeEqipement.csproj|solutionrelative:libraryforofficeeqipement\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\showrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\showrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\updaterequestoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\updaterequestoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\office_equipment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7D6081-1B7B-4AE4-85E0-16395B4651FF}|LibraryForOfficeEqipement\\LibraryForOfficeEqipement.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\libraryforofficeeqipement\\libraryforofficeeqipement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD7D6081-1B7B-4AE4-85E0-16395B4651FF}|LibraryForOfficeEqipement\\LibraryForOfficeEqipement.csproj|solutionrelative:libraryforofficeeqipement\\libraryforofficeeqipement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\addparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\addparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\addcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\addcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\office_equipment\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\updaterequestmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\updaterequestmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|h:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\office equipment\\office_equipment\\office_equipment\\showrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\showrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\office_equipment\\showrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\showrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\office_equipment\\updaterequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D86C003-D3A7-4488-851D-E3086C758955}|Office_equipment\\Office_equipment.csproj|solutionrelative:office_equipment\\updaterequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\UnitTest\\UnitTest1.cs*",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:06:49.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowRequest.cs [Design]",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequest.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\ShowRequest.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequest.cs [Design]",
+              "RelativeToolTip": "Office_equipment\\ShowRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:04:21.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateRequestOperator.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequestOperator.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\UpdateRequestOperator.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequestOperator.cs",
+              "RelativeToolTip": "Office_equipment\\UpdateRequestOperator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwHwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:42:40.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowRequest.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequest.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\ShowRequest.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequest.cs",
+              "RelativeToolTip": "Office_equipment\\ShowRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:41:08.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryForOfficeEqipement.csproj",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\LibraryForOfficeEqipement\\LibraryForOfficeEqipement.csproj",
+              "RelativeDocumentMoniker": "LibraryForOfficeEqipement\\LibraryForOfficeEqipement.csproj",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\LibraryForOfficeEqipement\\LibraryForOfficeEqipement.csproj",
+              "RelativeToolTip": "LibraryForOfficeEqipement\\LibraryForOfficeEqipement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T17:37:35.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateRequestManager.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequestManager.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\UpdateRequestManager.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequestManager.cs",
+              "RelativeToolTip": "Office_equipment\\UpdateRequestManager.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwF8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:52:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateRequest.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequest.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\UpdateRequest.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequest.cs",
+              "RelativeToolTip": "Office_equipment\\UpdateRequest.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:50:14.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\LibraryForOfficeEqipement\\DataBase.cs",
+              "RelativeDocumentMoniker": "LibraryForOfficeEqipement\\DataBase.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\LibraryForOfficeEqipement\\DataBase.cs",
+              "RelativeToolTip": "LibraryForOfficeEqipement\\DataBase.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:37:34.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddParts.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\AddParts.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\AddParts.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\AddParts.cs",
+              "RelativeToolTip": "Office_equipment\\AddParts.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:35:27.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddComment.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\AddComment.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\AddComment.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\AddComment.cs",
+              "RelativeToolTip": "Office_equipment\\AddComment.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:34:47.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\Login.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\Login.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u0438\u043D\u0430\\Downloads\\Telegram Desktop\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:35:42.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\Login.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\Login.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\Login.cs",
+              "RelativeToolTip": "Office_equipment\\Login.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:55:39.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateRequest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequest.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\UpdateRequest.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u0438\u043D\u0430\\Downloads\\Telegram Desktop\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:28:50.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShowRequestManager.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequestManager.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\ShowRequestManager.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequestManager.cs",
+              "RelativeToolTip": "Office_equipment\\ShowRequestManager.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:56:27.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShowRequestManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequestManager.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\ShowRequestManager.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequestManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\ShowRequestManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:11:57.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateRequestMaster.cs",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequestMaster.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\UpdateRequestMaster.cs",
+              "ToolTip": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequestMaster.cs",
+              "RelativeToolTip": "Office_equipment\\UpdateRequestMaster.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA4wGkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:32:30.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateRequestManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "H:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequestManager.cs",
+              "RelativeDocumentMoniker": "Office_equipment\\UpdateRequestManager.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u0438\u043D\u0430\\Downloads\\Telegram Desktop\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\5 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Office equipment\\Office_equipment\\Office_equipment\\UpdateRequestManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:50:10.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

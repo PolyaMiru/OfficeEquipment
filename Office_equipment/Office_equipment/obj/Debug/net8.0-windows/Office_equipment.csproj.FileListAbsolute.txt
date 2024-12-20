@@ -1,0 +1,117 @@
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.exe
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.deps.json
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.runtimeconfig.json
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.pdb
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddComment.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddParts.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddRequest.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.Login.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequest.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.GenerateResource.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AssemblyInfoInputs.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AssemblyInfo.cs
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\refint\Office_equipment.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.pdb
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.genruntimeconfig.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\ref\Office_equipment.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.AssemblyReference.cache
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestMaster.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestOperator.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequest.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestMaster.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestOperator.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_e.369ED7F9.Up2Date
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.exe
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.deps.json
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.runtimeconfig.json
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.pdb
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.AssemblyReference.cache
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddComment.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddParts.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddRequest.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.Login.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequest.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestMaster.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestOperator.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequest.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestMaster.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestOperator.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.GenerateResource.cache
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AssemblyInfoInputs.cache
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AssemblyInfo.cs
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.CoreCompileInputs.cache
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_e.369ED7F9.Up2Date
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\refint\Office_equipment.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.pdb
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.genruntimeconfig.cache
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\ref\Office_equipment.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\CaptchaGen.NetCore.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\LibraryForOfficeEqipement.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\LibraryForOfficeEqipement.pdb
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\QRCoder.dll
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestManager.resources
+H:\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestManager.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\CaptchaGen.NetCore.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\LibraryForOfficeEqipement.dll
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\LibraryForOfficeEqipement.pdb
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestManager.resources
+C:\Users\Полина\Downloads\Telegram Desktop\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestManager.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.AssemblyReference.cache
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddComment.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddParts.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AddRequest.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.Login.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequest.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestManager.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestMaster.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.ShowRequestOperator.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequest.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestManager.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestMaster.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.UpdateRequestOperator.resources
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.GenerateResource.cache
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AssemblyInfoInputs.cache
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.AssemblyInfo.cs
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.csproj.CoreCompileInputs.cache
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\refint\Office_equipment.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.pdb
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.exe
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.deps.json
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.runtimeconfig.json
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\Office_equipment.pdb
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\CaptchaGen.NetCore.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\QRCoder.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\LibraryForOfficeEqipement.dll
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\bin\Debug\net8.0-windows\LibraryForOfficeEqipement.pdb
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_e.369ED7F9.Up2Date
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\Office_equipment.genruntimeconfig.cache
+H:\Учебная практика\Учебная практика\5 задание\Office equipment\Office_equipment\Office_equipment\obj\Debug\net8.0-windows\ref\Office_equipment.dll
